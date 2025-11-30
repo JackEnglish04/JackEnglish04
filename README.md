@@ -1,16 +1,19 @@
-## Hi there 👋
+👋 Hi there, I'm Jack
 
-<!--
-**JackEnglish04/JackEnglish04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a third-year Computer Science student with a long-standing passion for computers and software development. 
+My interests include game development, database management, and artificial intelligence, and I enjoy working on projects that require creative problem-solving and unique technical approaches.
 
-Here are some ideas to get you started:
+My goal is to continue developing my skills and contribute to truly innovative and impactful technology through academic research, personal projects, and/or internship opportunities.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Technologies & Skills
+- Languages: C, C#, Python, Java, PHP
+- Web & Databases: HTML, SQL
+- Areas of focus: game development, AI concepts, database design, problem-solving
+
+
+Contact me:
+Email: Jackjuly79@gmail.com
+LinkedIn: https://www.linkedin.com/in/jack-english-26b954388/
+
+Thanks for visiting my profile!
